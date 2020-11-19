@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `🐼 ${BotName} 🐼
+	return `🐍 ${BotName} 🐍
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
@@ -10,12 +10,12 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/kntnbotwa
-🔱 *INSTAGRAM*: ${instagram}
-🔱 *YOUTUBE*: ${youtube}
-🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+📝 *AUTHOR*: Itspapoy
+📎 *GITHUB*: https://github.com/yahtoiba/botXaturnusSleepy
+ℹ️ *INSTAGRAM*: ${instagram.com/itspapoy}
+ℹ️ *YOUTUBE*: ${youtube}
+ℹ️ *TELEGRAM* : ${telegram}
+ℹ️ *WHATSAPP* : 087714745440
 
 🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
@@ -29,11 +29,12 @@ THANKS TO:
 -MUHAMMAD SAW
 -AYAH & IBU
 -ABDUL MUTTAQIN(FDCIABDUL)
+-BUAT KAMUN YG UDAH DONASI:)
 
 
 bot aktif selama : ${kapanbotaktif}
 JANGAN LUPA FOLLOW instagram
  ${instagram}
 
- 🐼TELEGRAM : ${telegram}`
+ 🐍TELEGRAM : ${telegram}`
 }
