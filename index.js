@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'botXaturnusSleepy☄'; 
-const instagram = 'https://instagram.com/yahtoiba'; 
+const instagram = 'https://instagram.com/itspapoy'; 
 const telegram = 'https://t.me/belumadamwehhe'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/yahtoiba mp4';
+const youtube = 'https://www.youtube.com/c/Fadhli Ryan F';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
