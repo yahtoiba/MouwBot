@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/kntnbotwa"
+    "url": "git+https://github.com/yahtoiba/botXaturnusSleepy"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/kntnbotwa/issues"
+    "url": "https://github.com/yahtoiba/botXaturnusSleepy/issues"
   },
-  "homepage": "https://github.com/benisadewa/kntnbotwa#readme"
+  "homepage": "https://github.com/yahtoiba/botXaturnusSleepy#readme"
 }
