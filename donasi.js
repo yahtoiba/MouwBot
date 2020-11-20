@@ -24,7 +24,7 @@ KALIAN BISA DONASI MENGGUNAKAN
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
-${instagram.com/itspapoy}
+${itspapoy}
 
 🐍TELEGRAM : ${telegram}
 
