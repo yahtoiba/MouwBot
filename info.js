@@ -12,7 +12,7 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 INFO BOT! :
 📝 *AUTHOR*: Itspapoy
 📎 *GITHUB*: https://github.com/yahtoiba/botXaturnusSleepy
-ℹ️ *INSTAGRAM*: ${instagram.com/itspapoy}
+ℹ️ *INSTAGRAM*: ${itspapoy}
 ℹ️ *YOUTUBE*: ${youtube}
 ℹ️ *TELEGRAM* : ${telegram}
 ℹ️ *WHATSAPP* : 087714745440
@@ -29,7 +29,7 @@ THANKS TO:
 -MUHAMMAD SAW
 -AYAH & IBU
 -ABDUL MUTTAQIN(FDCIABDUL)
--BUAT KAMUN YG UDAH DONASI:)
+-BUAT KAMU YG UDAH DONASI:)
 
 
 bot aktif selama : ${kapanbotaktif}
