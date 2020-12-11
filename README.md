@@ -26,7 +26,7 @@ Siapin alat dan bahannya.
 ```
 
 ### Informasi Pengguna
-Script ini di modifikasi sama saya sendiri XP-TN
+Script ini di modifikasi sama saya sendiri botXaturnusSleepy
 ```bash
 > Support My Github😘
 > Jangan Lupa follow github saya🤗
