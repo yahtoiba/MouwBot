@@ -1,4 +1,4 @@
-# YAHTOIBABOT XATURNUSSLEEPY
+# BOT XATURNUSSLEEPY
 BOT WHATSAPP YANG DIGUNAKAN DI TERMUX 
 <p align="center">
 <a href="https://github.com/XP-TN/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
