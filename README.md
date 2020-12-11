@@ -103,12 +103,12 @@ Github ini dan support😅
 |                   MORE                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN)
+BOT INI KHUSUS HP/TERMUX DOANG,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (yahtoiba)
 
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw)
-* [`Instagram Admin`](https://instagram.com/mragung23)
-* [`WhatsApp Admin `](https://wa.me/+6289655478810)
+* [`Instagram Admin`](https://instagram.com/yahtoiba)
+* [`WhatsApp Admin `](https://bit.ly/ClickDiSinii)
 
 ##THANKS TO MY FRENDS
 * [`caliph71 Github`](https://github.com/Caliph71)
