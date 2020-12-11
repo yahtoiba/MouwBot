@@ -33,15 +33,15 @@ Script ini di modifikasi sama saya sendiri XP-TN
 > jika error lapor ke Pembuat script chat wa link ada di github 
 ```
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri XP-TN.
+Script ini di modifikasi oleh botXaturnusSleepy
 ```bash
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/yahtoiba/botXaturnusSleepy
+> cd botXaturnusSleepy
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -51,7 +51,7 @@ Siapin alat dan bahannya.
 > Download Nodejs
 > jika udah open laLU install script ini
 > jika udh semua kalian pindahkan ke localdisk c
-> jika udah ketik di nodejs nya cd C:\XP-TNNBOT-main
+> jika udah ketik di nodejs nya cd C:\botXaturnusSleepy-main
 > npm i ytdl
 > npm i cwebp
 > npm i
