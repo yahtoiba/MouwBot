@@ -1,4 +1,4 @@
-# BOT XATURNUSSLEEPY
+## BOT XATURNUSSLEEPY <img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px">  ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.botXaturnusSleepy)
 BOT WHATSAPP YANG DIGUNAKAN DI TERMUX 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
