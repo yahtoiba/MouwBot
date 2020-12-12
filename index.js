@@ -6,7 +6,7 @@
 */
 const XPTN = 'BOT XATURNUSSLEEPY'; // JANGAN DI UBAH NNTI EROR
 const instagram = 'https://instagram.com/yahtoiba'; // JANGAN DI UBAH NNTI EROR
-const nomer = 'https://bit.ly/ClickDiSinii'; // JANGAN DI UBAH NANTI EROR
+const nomer = '0877-1474-5440'; // JANGAN DI UBAH NANTI EROR
 const aktif = 'Sesuai Selera'; // DI GANTI AUTO EROR
 const groupwa = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // DI GANTI AUTO EROR
 const youtube = 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q'; // DI GANTI AUTO EROR
@@ -150,7 +150,7 @@ else if (text == '.owner'){
 conn.sendMessage(id, 'Owner yahtoiba bit.ly/ClickDiSinii' ,MessageType.text);
 }
 else if (text == 'bot'){
-conn.sendMessage(id, 'aku pembuat XaturnusSleepy bot ada yang bisa di bantu?' ,MessageType.text);
+conn.sendMessage(id, 'aku pembuat botXaturnusSleepy bot ada yang bisa di bantu?' ,MessageType.text);
 }
 else if (text == 'hai'){
 conn.sendMessage(id, 'iyaa?' ,MessageType.text);
