@@ -12,8 +12,8 @@
 
 ### BBY><
 ```php
-Calon
-Masdep Aing ツ
+Calon Masdep Aing
+Do'ain ya mentemen ツ
 ```
 ## NOTE
 SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
