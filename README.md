@@ -11,7 +11,11 @@
 </details>
 
 ### BBY><
-UWU
+```php
+Calon
+Masdep
+Aing
+```
 ## NOTE
 SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
