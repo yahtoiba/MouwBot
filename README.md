@@ -38,14 +38,14 @@ Github ini dan support thxツ
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Script ini di modifikasi oleh MouwBotツ
-```bash
-> kalo lu belum punya apk termux, download di playstore
+```php
+> pertama lu download apk termux di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/yahtoiba/MouwBot
 > cd MouwBot
 > bash install.sh
 > node index js
-> Tinggal scan kode qr yeee...done
+> Tinggal scan kode qr yee tod...
 ```
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
