@@ -46,7 +46,7 @@ Script ini di modifikasi oleh MouwBotツ
 > Tinggal scan kode qr yeee...done
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
 | yahtoiba |                MouwBotツ           |
 | :-----------: | :--------------------------------: |
