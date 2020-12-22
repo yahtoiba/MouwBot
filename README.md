@@ -17,11 +17,11 @@
 Calon Masdep Aing
 Do'ain ya mentemen ツ
 ```
-## NOTE
+## `NOTE`📝
 ``SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX``
 </div>
 
-### ALAT DAN BAHAN 📝
+### `ALAT DAN BAHAN`⚙️
 ``Siapin alat dan bahannya.``
 ```php
 > niat
@@ -32,7 +32,7 @@ Do'ain ya mentemen ツ
 > aplikasi termux
 > kopi+rokok ;v
 ```
-### Sebagian Fitur Masih Ada Bug Diwajarkan
+### `Sebagian Fitur Masih Ada Bug Diwajarkan`
 ```php
 Nanti kami betulkan jangan lupa support dengan cara follow/stars
 Github ini dan support thxツ
