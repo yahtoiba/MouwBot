@@ -1,6 +1,11 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MouwBotツ ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.MouwBot)
 
 <p align="center">
+<img src="https://github.com/yahtoiba/MouwBot/blob/main/MouwBot/IMG-20201214-WA8323.jpg" width="230" height="230"/>
+</p>
+
+
+<p align="center">
 <a href="#"><img title="MouwBot" src="https://img.shields.io/badge/MouwBotツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
