@@ -9,8 +9,9 @@
 </p>
 
 </details>
-```php
+
 ### BBY><
+```bash
 Calon Masdep Aing
 Do'ain ya mentemen ツ
 ```
