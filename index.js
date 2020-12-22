@@ -1,5 +1,5 @@
 /*
-* Thanks For 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
+* Thx4 MhankBarBar
 */
 
 const
@@ -33,12 +33,12 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
 const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
-const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
-            + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
-            + 'FN:Aris🖤\n' // MENDING LU TOBAT SU!
-            + 'ORG:Creator AR15BOT;\n' // KASIH CREDITS GUA SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=6285722553839:+62 857-2255-3839\n' // JANGAN KEK BABI SU
-            + 'END:VCARD' // ARIS187 ID
+const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN? NJIM
+            + 'VERSION:3.0\n' // PASTI MAU NUMPANG NAMA DOANG XIXIXIXI
+            + 'FN:Fadhli\n' // MENDING LU TOBAT SU!
+            + 'ORG:@itspapoy;\n' // KASIH CREDITS GUA SU!!!
+            + 'TEL;type=CELL;type=VOICE;waid=6287714745440:+62 877-1474-5440\n' // JANGAN KEK TAI LU
+            + 'END:VCARD' // MouwBot
 prefix = '!'
 blocked = []            
 const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
@@ -47,10 +47,10 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '👾AR15BOT👾', // TOBAT SU ASU
-    instagram: 'https://instagram.com/_sadboy.ig', // INFO JANGAN DI UBAH
-    nomer: 'wa.me/6285722553839', // INFO SU JNGAN DI UBAH
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', // KINTIL
+    A187: 'MouwBotツ', // TOBAT SU ASU
+    instagram: 'https://instagram.com/itspapoy', // INFO JANGAN DI UBAH SU
+    nomer: 'wa.me/6287714745440', // INFO SU JNGAN DI UBAH
+    youtube: 'https://youtube.com/channel/UCat4laLWRIeTszIuCZ1_O1Q', // KINTIL
     whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs', // BABI
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
@@ -79,7 +79,7 @@ const client = new WAConnection()
 
 client.on('qr', qr => {
    qrcode.generate(qr, { small: true })
-   console.log(`[ ${time} ] QR code is ready, subscribe Aris187 ID`)
+   console.log(`[ ${time} ] QR code is ready, MouwBotツ`)
 })
 
 client.on('credentials-updated', () => {
@@ -93,7 +93,7 @@ fs.existsSync('./session.json') && client.loadAuthInfo('./session.json')
 
 client.connect();
 
-// client.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log(`${time}: Bot by ig:@_sadboy.ig`)
+// client.on('user-presence-update', json => console.log(json.id + ' presence is => ' + json.type)) || console.log(`${time}: Bot by ig:@itspapoy`)
 
 client.on('group-participants-update', async (anu) => {
 		if (!welkom.includes(anu.jid)) return
@@ -152,18 +152,18 @@ client.on('group-participants-update', async (anu) => {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '❬❗❭ 𝗪𝗔𝗜𝗧, 𝗹𝗮𝗴𝗶 𝗽𝗿𝗼𝘀𝗲𝘀',
+				wait: '𝗪𝗔𝗜𝗧, 𝗹𝗮𝗴𝗶 𝗽𝗿𝗼𝘀𝗲𝘀',
 				success: '️❬ ✔ ❭ 𝘀𝘂𝗰𝗰𝗲𝘀𝘀 𝘁𝗼𝗱🖤',
 				error: {
 					stick: '𝗬𝗲𝗮𝗵 𝗴𝗮𝗴𝗮𝗹 ;(, 𝘂𝗹𝗮𝗻𝗴𝗶 𝗹𝗮𝗴𝗶 𝘆𝗮𝗵 𝘁𝗼𝗱 ^_^',
 					Iv: '𝗠𝗮𝗮𝗳 𝗹𝗶𝗻𝗸 𝘁𝗶𝗱𝗮𝗸 𝘃𝗮𝗹𝗶𝗱☹️'
 				},
 				only: {
-					group: '❬❗❭ 𝗚𝗥𝗢𝗨𝗣 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
-					ownerG: '❬❗❭ 𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
-					ownerB: '❬❗❭  𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
-					admin: '❬❗❭ 𝗔𝗗𝗠𝗜𝗡 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
-					Badmin: '❬❗❭ 𝗕𝗢𝗧 𝗛𝗔𝗥𝗨𝗦 𝗝𝗔𝗗𝗜 𝗔𝗗𝗠𝗜𝗡 𝗧𝗢𝗗'
+					group: '𝗚𝗥𝗢𝗨𝗣 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
+					ownerG: '𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
+					ownerB: '𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
+					admin: '𝗔𝗗𝗠𝗜𝗡 𝗢𝗡𝗟𝗬 𝗧𝗢𝗗',
+					Badmin: '𝗕𝗢𝗧 𝗛𝗔𝗥𝗨𝗦 𝗝𝗔𝗗𝗜 𝗔𝗗𝗠𝗜𝗡 𝗧𝗢𝗗'
 				}
 			}
 
@@ -216,24 +216,24 @@ client.on('group-participants-update', async (anu) => {
 					case 'Iri':
 					case 'iri?':
             case 'iri':
-                client.sendMessage(from, 'aris' + 'iri.mp3', {quoted: mek, ptt:true})
+                client.sendMessage(from, 'MouwBot' + 'iri.mp3', {quoted: mek, ptt:true})
                 break
                 
             case 'abgjago':
             case 'abangjago':
-                client.sendMessage(from, 'aris' + 'abangjago'+'mp3', {quoted: mek, ptt:true})
+                client.sendMessage(from, 'MouwBot' + 'abangjago'+'mp3', {quoted: mek, ptt:true})
                 break
             case 'tarekses':
             case 'tariksis':
             case 'tareksis':
             case 'tareeksis':
             case 'tareekses':
-                client.sendMessage(from, './aris'+'/tarekses.mp3', {quoted: mek, ptt:true})
+                client.sendMessage(from, './MouwBot'+'/tarekses.mp3', {quoted: mek, ptt:true})
                 break
             case 'welotka':
             case 'welutka':
             case 'kangcopet':
-                client.sendMessage(dari, './aris'+'welot'+'mp3',{quoted: mek, ptt:true})
+                client.sendMessage(dari, './MouwBot'+'welot'+'mp3',{quoted: mek, ptt:true})
                 break
                 
                 
@@ -810,6 +810,6 @@ break
 
                      
 /*
-*Thanks For 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
+*End of File
 */
 
