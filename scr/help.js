@@ -1,14 +1,14 @@
 const help = (prefix) => {
-	return `👾𝗔𝗥𝟭𝟱𝗕𝗢𝗧👾
+	return `MouwBotツ
 	
 	                
 ┏━━━°❀ ❬ 𝘼𝘽𝙊𝙐𝙏 ❭ ❀°━━━┓
 ┃
-┏❉ *${prefix}owner*
-┣❉ *${prefix}donasi*
-┗❉ *${prefix}creator*
+┣➥ *${prefix}owner*
+┣➥ *${prefix}donasi*
+┣➥ *${prefix}creator*
 ┃
-┣━━━°❀ ❬ 𝗠𝗔𝗞𝗘𝗥 ❭ ❀°━━━⊱
+┣━━━°❀ ❬ 𝗠𝗔𝗞𝗘𝗥 ❭ ❀°━━━≽
 ┃
 ┣➥ *${prefix}sticker* [foto]
 ┣➥ *${prefix}stickergif* [foto]
@@ -16,7 +16,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}thunder* [teks]
 ┣➥ *${prefix}tsticker* [teks/url]
 ┃
-┣━━━━°❀ ❬ 𝙈𝙀𝘿𝙄𝘼 ❭ ❀°━━━⊱
+┣━━━━°❀ ❬ 𝙈𝙀𝘿𝙄𝘼 ❭ ❀°━━━≽
 ┃
 ┣➥ *${prefix}tts* [teks]
 ┣➥ *${prefix}ocr*
@@ -30,7 +30,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}simih*
 ┣➥ *${prefix}wait*
 ┃
-┣━━━━°❀ ❬ 𝙂𝙍𝙊𝙐𝙋 ❭ ❀°━━━━⊱
+┣━━━━°❀ ❬ 𝙂𝙍𝙊𝙐𝙋 ❭ ❀°━━━━≽
 ┃
 ┣➥ *${prefix}setname*
 ┣➥ *${prefix}setdesc*
@@ -42,7 +42,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}welcome*
 ┣➥ *${prefix}left*
 ┃
-┣━━━━°❀ ❬ 𝙎𝙊𝙐𝙉𝘿 ❭ ❀°━━━━━⊱
+┣━━━━°❀ ❬ 𝙎𝙊𝙐𝙉𝘿 ❭ ❀°━━━━━≽
 ┃
 ┣➥ *salam*
 ┣➥ *tariksis*
@@ -52,19 +52,9 @@ const help = (prefix) => {
 ┣➥ *roti*
 ┣➥ *welot*
 ┣➥ *abangjago*
-┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃
-┃╔══╗╔═╗╔══╗╔══╗
-┃║╔╗║║╬║╚║║╝║══╣
-┃║╠╣║║╗╣╔║║╗╠══║
-┃╚╝╚╝╚╩╝╚══╝╚══╝
-┃───────────────
-┃
-┣━━━━━━━━━━━━━━━━━━━━
-┃ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗔𝗥𝗜𝗦𝟭𝟴𝟳 𝗜𝗗
+┃ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 MouwBotツ
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 
 exports.help = help
-
