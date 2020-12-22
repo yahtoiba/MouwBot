@@ -106,3 +106,4 @@ Github ini dan support thxツ
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="DinoEskrimEnak" width="600" />
 
+[`Status`](githubstatus.com)
