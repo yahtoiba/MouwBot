@@ -1,7 +1,3 @@
-/*
-* Thx4 MhankBarBar
-*/
-
 const
 {
    WAConnection,
