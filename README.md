@@ -18,9 +18,10 @@ Calon Masdep Aing
 Do'ain ya mentemen ツ
 ```
 ## `NOTE`📝
-``SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX``
-</div>
-
+```php
+SCRIPT INI TIDAK DI JUAL/BELI KAN 
+SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
+```
 ### `ALAT DAN BAHAN`⚙️
 ``Siapin alat dan bahannya.``
 ```php
