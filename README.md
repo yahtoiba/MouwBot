@@ -11,7 +11,7 @@
 </details>
 
 ### BBY><
-*[`CanssBattAnjim`]
+`CanssBattAnjim`
 
 ```php
 Calon Masdep Aing
