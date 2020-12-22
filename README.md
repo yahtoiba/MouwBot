@@ -5,10 +5,7 @@
 <a href="#"><img title="MouwBot" src="https://img.shields.io/badge/MouwBotツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
- 
 </details>
-
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA SAYA.... DILARANG UBAH INFO!!!
