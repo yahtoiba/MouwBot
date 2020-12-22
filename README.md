@@ -48,6 +48,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
+|       MouwBotツ        		                |
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Send Photo with Caption          |
@@ -55,6 +56,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Reply A Video or GIF             |
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
+
 | Group  |                     Feature               |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Tagall/Mentionall member       |
@@ -67,6 +69,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅        |   Set Prefix                     |
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
+
 | Other  |                     Feature                     |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Get a random meme             |
