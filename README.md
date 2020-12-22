@@ -33,7 +33,7 @@ SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 > aplikasi termux
 > kopi+rokok ;v
 ```
-## 'OPTION FEATURES'
+## `OPTION FEATURES`
 #### `Sebagian Fitur Masih Ada Bug`
 ```php
 Nanti kami betulkan jangan lupa support dengan cara follow/stars
