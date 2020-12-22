@@ -1,8 +1,8 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Mouw ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.MouwBot)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MouwBotツ ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.MouwBot)
 
 
 <p align="center">
-<a href="#"><img title="MouwBot" src="https://img.shields.io/badge/MouwBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MouwBot" src="https://img.shields.io/badge/MouwBotツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
  
@@ -11,7 +11,7 @@
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+MAU RE-UPLOAD SCRIPT? KASIH NAMA SAYA.... DILARANG UBAH INFO!!!
 
 ## NOTE
 SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
