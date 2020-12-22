@@ -48,7 +48,7 @@ Script ini di modifikasi oleh MouwBotツ
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| yahtoiba |                MouwBotツ           | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/itspapoy)
+| yahtoiba |                MouwBotツ           |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/itspapoy)
 
 | :-----------: | :--------------------------------: |
 
