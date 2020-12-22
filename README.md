@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MouwBotツ ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.MouwBot)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> `I'm MouwBotツ` ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.MouwBot)
 
 <p align="center">
 <img src="https://github.com/yahtoiba/MouwBot/blob/main/MouwBot/IMG-20201214-WA8323.jpg" width="530" height="530"/>
@@ -22,7 +22,7 @@ Do'ain ya mentemen ツ
 </div>
 
 ### ALAT DAN BAHAN 📝
-Siapin alat dan bahannya.
+`Siapin alat dan bahannya.`
 ```php
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
@@ -39,7 +39,7 @@ Github ini dan support thxツ
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi oleh MouwBotツ
+`Script ini di modifikasi oleh MouwBotツ`
 ```php
 > pertama lu download apk termux di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
