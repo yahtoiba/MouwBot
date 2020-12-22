@@ -83,7 +83,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | leave                             |
 |       ✅       | url2img                           |
 |       ✅       | wait                          |
-|            info/donate/creator                  |
+|            More Fitur                  |
 
 Ket: Aktif 24 jam Kalo Off berarti sibuk :v
 
@@ -100,5 +100,5 @@ Ket: Aktif 24 jam Kalo Off berarti sibuk :v
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="DinoEskrimEnak" width="600" />
 
