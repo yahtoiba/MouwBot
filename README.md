@@ -10,7 +10,7 @@
 
 </details>
 
-### `BBY><` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+## `BBY><` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 ```Thx1Month (っ´▽`)っ```
 
 ```php
