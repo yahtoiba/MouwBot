@@ -34,7 +34,7 @@ SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 > kopi+rokok ;v
 ```
 ## `OPTION FEATURES`
-#### `Sebagian Fitur Masih Ada Bug`
+``Sebagian Fitur Masih Ada Bug``
 ```php
 Nanti kami betulkan jangan lupa support dengan cara follow/stars
 Github ini dan support thxツ
