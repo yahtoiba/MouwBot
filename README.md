@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="#"><img title="MouwBot" src="https://img.shields.io/badge/Mouw-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MouwBot" src="https://img.shields.io/badge/MouwBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
  
@@ -14,7 +14,7 @@
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
 ## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
@@ -28,6 +28,11 @@ Siapin alat dan bahannya.
 > aplikasi termux
 > kopi+rokok ;v
 ```
+### Sebagian Fitur Masih Ada Bug Diwajarkan
+```php
+Nanti kami betulkan jangan lupa support dengan cara follow/stars
+Github ini dan support thxツ
+```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Script ini di modifikasi sama saya sendiri Aris187 ID.
@@ -35,7 +40,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
+> cd Mouw
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
