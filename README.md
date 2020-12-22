@@ -48,6 +48,9 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
+| MouwBotツ |                On           |
+| :-----------: | :--------------------------------: |
+
         		                
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
