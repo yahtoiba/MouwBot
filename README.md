@@ -88,7 +88,7 @@ Ket: Aktif 24 jam Kalo Off berarti sibuk :v
 * [`Donasi Mouw`](https://bit.ly/ClickDiSinii)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 
 * [`Instagram Admin`](https://instagram.com/itspapoy)
 * [`WhatsApp Admin `](https://wa.me/+6287714745440)
