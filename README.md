@@ -41,7 +41,7 @@ Github ini dan support thxツ
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-``Script modifikasi by'' ''MouwBotツ''(https://bit.ly/ClickDiSinii)
+``Script modifikasi by`` ``MouwBotツ``(https://bit.ly/ClickDiSinii)
 ```php
 > pertama lu download apk termux di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
