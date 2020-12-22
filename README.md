@@ -11,12 +11,12 @@
 </details>
 
 ### BBY><
-``Thx1Month (っ´▽`)っ``
+```Thx1Month (っ´▽`)っ```
 
-````php
+```php
 Calon Masdep Aing
 Do'ain ya mentemen ツ
-````
+```
 ## NOTE
 ``SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX``
 </div>
@@ -39,7 +39,7 @@ Github ini dan support thxツ
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-...`Script ini di modifikasi oleh MouwBotツ``
+``Script ini di modifikasi oleh MouwBotツ``
 ```php
 > pertama lu download apk termux di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
