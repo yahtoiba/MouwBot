@@ -11,7 +11,7 @@
 </details>
 
 ### BBY><
-`1Month (っ´▽`)っ`
+``1Month(っ´▽`)っ``
 
 ```php
 Calon Masdep Aing
