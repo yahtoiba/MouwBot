@@ -16,13 +16,12 @@ Calon Masdep Aing
 Do'ain ya mentemen ツ
 ```
 ## NOTE
-```
 SCRIPT INI TIDAK DI JUAL/BELI KAN.. SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
-```
+
 ### ALAT DAN BAHAN 📝
 Siapin alat dan bahannya.
-```bash
+```php
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
 > jaringan internet kenceng,kuota+
