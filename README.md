@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-<a href="#"> ~<img title="MouwBot" src="https://img.shields.io/badge/MouwBotツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>~
+<a href="#"> ¦<img title="MouwBot" src="https://img.shields.io/badge/MouwBotツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>¦
 </p>
 
 </details>
 
-## `BBY><` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+## `BBY><` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 ```php
 Thx1Month (っ´▽`)っ♡♡♡♡♡♡♡♡♡
 ```
