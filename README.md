@@ -21,7 +21,7 @@ Do'ain ya mentemen ツ
 ```
 ## `NOTE`📝
 ```php
-* ``READ !!!``
+* READ !!!
 ```
 ```php
 SCRIPT INI TIDAK DI JUAL/BELI KAN 
