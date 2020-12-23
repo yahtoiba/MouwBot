@@ -25,7 +25,7 @@ SCRIPT INI TIDAK DI JUAL/BELI KAN
 SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 ```
 ### `ALAT DAN BAHAN`⚙️
-``Siapin alat dan bahannya.``
+* ``Siapin alat dan bahannya.``
 ```php
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
@@ -36,14 +36,14 @@ SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
 > kopi+rokok ;v
 ```
 ## `OPTION FEATURES`📈
-``Sebagian Fitur Masih Ada Bug``
+* ``Sebagian Fitur Masih Ada Bug``
 ```php
 Nanti kami betulkan jangan lupa support dengan cara follow/stars
 Github ini dan support thxツ
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-``Script modifikasi by`` [`MouwBotツ`](https://bit.ly/ClickDiSinii)
+* ``Script modifikasi by`` [`MouwBotツ`](https://bit.ly/ClickDiSinii)
 ```php
 > pertama lu download apk termux di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
