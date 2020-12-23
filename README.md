@@ -20,7 +20,9 @@ Calon Masdep Aing
 Do'ain ya mentemen ツ
 ```
 ## `NOTE`📝
+```php
 * ``READ !!!``
+```
 ```php
 SCRIPT INI TIDAK DI JUAL/BELI KAN 
 SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
