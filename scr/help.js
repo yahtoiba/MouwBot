@@ -2,13 +2,13 @@ const help = (prefix) => {
 	return `MouwBotツ
 	
 	                
-┏━━━°❀ ❬ 𝘼𝘽𝙊𝙐𝙏 ❭ ❀°━━━┓
+┏━━━°✪〘 INFORMATION 〙✪°━━━┓
 ┃
 ┣➥ *${prefix}owner*
 ┣➥ *${prefix}donasi*
 ┣➥ *${prefix}creator*
 ┃
-┣━━━°❀ ❬ 𝗠𝗔𝗞𝗘𝗥 ❭ ❀°━━━≽
+┣━━━°✪〘 MAKER 〙✪°━━━≽
 ┃
 ┣➥ *${prefix}sticker* [foto]
 ┣➥ *${prefix}stickergif* [foto]
@@ -16,7 +16,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}thunder* [teks]
 ┣➥ *${prefix}tsticker* [teks/url]
 ┃
-┣━━━━°❀ ❬ 𝙈𝙀𝘿𝙄𝘼 ❭ ❀°━━━≽
+┣━━━━°✪〘 MEDIA 〙✪°━━━≽
 ┃
 ┣➥ *${prefix}tts* [teks]
 ┣➥ *${prefix}ocr*
@@ -30,7 +30,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}simih*
 ┣➥ *${prefix}wait*
 ┃
-┣━━━━°❀ ❬ 𝙂𝙍𝙊𝙐𝙋 ❭ ❀°━━━━≽
+┣━━━━°✪〘 GROUP 〙✪°━━━━≽
 ┃
 ┣➥ *${prefix}setname*
 ┣➥ *${prefix}setdesc*
@@ -42,7 +42,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}welcome*
 ┣➥ *${prefix}left*
 ┃
-┣━━━━°❀ ❬ 𝙎𝙊𝙐𝙉𝘿 ❭ ❀°━━━━━≽
+┣━━━━°✪〘 SOUND 〙✪°━━━━━≽
 ┃
 ┣➥ *salam*
 ┣➥ *tariksis*
