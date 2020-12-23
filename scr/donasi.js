@@ -4,13 +4,13 @@ const donasi = () => {
   Hae.👋️ *${id.split("@s.whatsapp.net")[0]}* 👋️
   
           
-┏━━━°❀ ❬ 𝘼𝘽𝙊𝙐𝙏 ❭ ❀°━━━┓
+┏━━━°✪〘 INFORMATION 〙✪°━━━┓
 ┃
 ┃➣ *#info*
 ┃➣ *#donasi* 
 ┃➣ *#creator* 
 ┃
-┣━━━°❀ ❬ 𝗗𝗢𝗡𝗔𝗦𝗜 ❭ ❀°━━━≽
+┣━━━°✪〘 DONASI 〙✪°━━━≽
 ┃╭──❉ DONASI SEIKHLASNYA ❉
 ┃│➤ PULSA : 0877-1474-5440
 ┃│➤ DANA  : 0877-1474-5440
