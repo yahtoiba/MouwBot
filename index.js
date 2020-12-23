@@ -1,4 +1,9 @@
-const {
+/*
+* Thanks For 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
+*/
+
+const
+{
    WAConnection,
    MessageType,
    Presence,
