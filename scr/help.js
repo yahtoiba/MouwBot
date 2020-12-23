@@ -42,16 +42,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}welcome*
 ┣➥ *${prefix}left*
 ┃
-┣━━━━°✪〘 SOUND 〙✪°━━━━━≽
-┃
-┣➥ *salam*
-┣➥ *tariksis*
-┣➥ *baka*
-┣➥ *desah*
-┣➥ *goblok*
-┣➥ *roti*
-┣➥ *welot*
-┣➥ *abangjago*
+┣━━━━°✪〘 END 〙✪°━━━━━≽
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 MouwBotツ
 ┗━━━━━━━━━━━━━━━━━━━━`
