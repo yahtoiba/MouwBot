@@ -58,39 +58,42 @@ Github ini dan support thxツ
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
-| yahtoiba |                MouwBotツ           |
-| :-----------: | :--------------------------------: |
-        		                
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
-
-| Group  |                     Feature               |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-
-| Owner Bot  |                     Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
-
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
-|               More		                |
+| MouwBot      |                   Feature        |
+| :-----------: | :------------------------------: |
+|       ✅       | Sticker Creator                  |
+|       ✅       | Nulis                            |
+|       ✅       | add                          |
+|       ✅       | kick                     |
+|       ✅       | demote                     |
+|       ✅       | promote                       |
+|       ✅       | bc           |
+|       ✅       | welcome                           |
+|       ✅       | Youtube Downloader               |
+|       ✅       | simi                           |
+|       ✅       | left                    |
+|       ✅       | setpp                    |
+|       ✅       | group buka/tutup                   |
+|       ✅       | nsfwloli                 |
+|       ✅       | loli              |
+|       ✅       | tts                            |
+|       ✅       | tiktokstalk          |
+|       ✅       | tiktok             |
+|       ✅       | tagall               |
+|       ✅       | clearall             |
+|       ✅       | block        |
+|       ✅       | unblock                        |
+|       ✅       | sound                              |
+|       ✅       | tsticker                    |
+|       ✅       | nulis                             |
+|       ✅       | meme                           |
+|       ✅       | memeindo                     |
+|       ✅       | ocr                      |
+|       ✅       | clone                            |
+|       ✅       | bc                          |
+|       ✅       | leave                             |
+|       ✅       | url2img                           |
+|       ✅       | wait                          |
+|            More                  |
 
 ##### `Ket: Aktif 24 jam`
 ##### `Kalo Off berarti sibuk :v`
