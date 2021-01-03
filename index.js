@@ -24,9 +24,9 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
-            + 'FN: ITSMEIKY\n' // MENDING LU TOBAT SU!
-            + 'ORG:Creator ITSMEIKY;\n' // KASIH CREDITS GUA SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=6281281872699:+62 81-2818-72699\n' // JANGAN KEK BABI SU
+            + 'FN:Fadhli\n' // MENDING LU TOBAT SU!
+            + 'ORG:@itspapoy;\n' // KASIH CREDITS GUA SU!!!
+            + 'TEL;type=CELL;type=VOICE;waid=6287714745440:+62 877-1474-5440\n' // JANGAN KEK BABI SU
             + 'END:VCARD'
 prefix = '$'
 blocked = []
@@ -75,7 +75,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Halo Lord @${num.split('@')[0]}\nSelamat Datang Di Group *${mdata.subject}* Semoga Betah Ya Bro Jika Belum Save Nomer Admin Silahkan Save Dengan Ketik $creator Untuk Perintah Ketik $help Copyright By : *${mdata.subject}*`
+				teks = `Holla @${num.split('@')[0]}\n Selamat Datang Di Group *${mdata.subject}* Semoga Betah yaa © Copyright By : *${mdata.subject}*`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -319,7 +319,7 @@ async function starts() {
 					break
 			case 'creator':
                  client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-                 client.sendMessage(from, 'itu pacar ku eh owner ku ><',MessageType.text, { quoted: mek} )
+                 client.sendMessage(from, 'ini nomer ownernya sv aja yaa nnti di svbck koo ><',MessageType.text, { quoted: mek} )
                  break
                  case 'fitnah':	
 				case 'fake':          
