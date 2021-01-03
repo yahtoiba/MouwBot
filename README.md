@@ -55,13 +55,14 @@ Github ini dan support thxツ
 > node index js
 > Tinggal scan kode qr yee tod...
 ```
-<details>
+<p align="center">
 
 ## ``FEATURES``  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
 |    MouwBot     [✓](https://bit.ly/ClickDiSinii) |           v 3.2            |            
 | :-----------: | :-----------------------------: |
 
+<details>
 
 | Features | Use |
 | :-------:| :-: |
