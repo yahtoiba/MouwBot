@@ -13,7 +13,7 @@
 ## `BBY><` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px" height="50"/>
 * ``My Future``
 ```php
-Thx1Month (っ´▽`)っ♡♡♡♡♡♡♡♡♡
+Thx2Month (っ´▽`)っ♡♡♡♡♡♡♡♡♡
 ```
 
 ```php
@@ -24,7 +24,7 @@ Do'ain ya mentemen ツ
 * ``READ!!!``
 ```php
 SCRIPT INI TIDAK DI JUAL/BELI KAN 
-SCRIPT INI GRATIS BUAT KALIAN PENGGUNA TERMUX
+SCRIPT INI GRATIS BUAT PENGGUNA TERMUX
 ```
 ### `ALAT DAN BAHAN`⚙️
 * ``Siapin alat dan bahannya.``
