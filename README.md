@@ -56,62 +56,106 @@ Github ini dan support thxツ
 > Tinggal scan kode qr yee tod...
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
+## ``FEATURES``  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
-| MouwBot      |                   Feature        |
-| :-----------: | :------------------------------: |
-|       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                            |
-|       ✅       | add                          |
-|       ✅       | kick                     |
-|       ✅       | demote                     |
-|       ✅       | promote                       |
-|       ✅       | bc           |
-|       ✅       | welcome                           |
-|       ✅       | Youtube Downloader               |
-|       ✅       | simi                           |
-|       ✅       | left                    |
-|       ✅       | setpp                    |
-|       ✅       | group buka/tutup                   |
-|       ✅       | nsfwloli                 |
-|       ✅       | loli              |
-|       ✅       | tts                            |
-|       ✅       | tiktokstalk          |
-|       ✅       | tiktok             |
-|       ✅       | tagall               |
-|       ✅       | clearall             |
-|       ✅       | block        |
-|       ✅       | unblock                        |
-|       ✅       | sound                              |
-|       ✅       | tsticker                    |
-|       ✅       | nulis                             |
-|       ✅       | meme                           |
-|       ✅       | memeindo                     |
-|       ✅       | ocr                      |
-|       ✅       | clone                            |
-|       ✅       | bc                          |
-|       ✅       | leave                             |
-|       ✅       | url2img                           |
-|       ✅       | wait                          |
-|            More                  |
-
-##### `Ket: Aktif 24 jam`
-##### `Kalo Off berarti sibuk :v`
-
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Mouw`](https://bit.ly/ClickDiSinii)
+| AnxietyBot [✓](https://bit.ly/ClickDiSinii) |           v 3.2            |            
+| :-----------: | :-----------------------------: |
 
 
-## SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
+| Features | Use |
+| :-------:| :-: |
+|   Free   |  y  |
+|    VIP   |  y  |
+|   VVIP   |  n  |
+|   VVVIP  |  n  |
+|  Premium |  n  |
 
-* [`Instagram Admin`](https://instagram.com/itspapoy)
-* [`WhatsApp Admin `](https://wa.me/+6287714745440)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+#
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+|Terakreditasi Point | [A](https://github.com) |
+| :-: | :-: |
 
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="DinoEskrimEnak" width="600" />
+
+| Active         |                 Feature          |   Lvl  |
+| :-----------:  | :------------------------------: | :----: |
+|       ✔       | Sticker Creator                  | Medium |
+|       ✔       | Nulis                            | Medium |
+|       ✔       | add                              | Medium |
+|       ✔       | kick                             | Medium |
+|       ✔       | demote                           | Medium |
+|       ✔       | promote                          | Medium |
+|       ✔       | bc                               | Medium |
+|       ✔       | welcome                          | Medium |
+|           More                  | None            | None   |
+
+
+| Active         |          Other                  |   Lvl  | 
+| :-----------:  | :-----------------------------: | :----: |
+|       ✔       | Youtube Download                | Medium |
+|       ✔       | simi                            | Medium |
+|       ✔       | left                            | Medium |
+|       ✔       | setpp                           | Medium |
+|       ✔       | group buka/tutup                | Medium |
+|       ✔       | nsfwloli                        | Medium |
+|       ✔       | loli                            | Medium |
+|       ✔       | tts                             | Medium |
+|           More                  | None           | None   |
+
+#
+
+
+| Active         |        Other                    |   Lvl  |
+| :-----------:  | :-----------------------------: | :----: |
+|       ✔       | tiktokstalk                     | Medium |
+|       ✔       | tiktok                          | Medium |
+|       ✔       | tagall                          | Hard   |
+|       ✔       | clearall                        | Medium |
+|       ✔       | block                           | Medium |
+|       ✔       | unblock                         | Medium |
+|       ✔       | sound                           | Medium |
+|       ✔       | tsticker                        | Medium |
+|            More                 | None           | None   | 
+
+
+| Active         |         Other                   |   Lvl  |
+| :-----------:  | :-----------------------------: | :----: |
+|       ✔       | nulis                           | Medium |
+|       ✔       | meme                            | Medium |
+|       ✔       | memeindo                        | Medium |
+|       ✔       | ocr                             | Medium |
+|       ✔       | clone                           | Medium |
+|       ✔       | groupinfo                       | Medium |
+|       ✔       | leave                           | Medium |
+|       ✔       | url2img                         | Medium |
+|            More                  | None          | None   |
+
+#
+
+| Active         |          New                  |   Lvl  |
+| :------------: | :-----------------------------: | :----: |
+|       ✔       | wait                            | Medium |
+|       ✔       | ttp                             | Medium |
+|       ✔       | tahta                           | Medium |
+|       ✔       | quotemaker                      | Medium |
+|       ✔       | stickergif                      | Medium |
+|       ✔       | imoji                           | Medium |
+|       ✔       | randomcat                       | Medium |
+|       More       | None                          | None |
+
+##
+
+| Timer |            Information            |
+| :---: |  :-----------------------------:  |
+|  ON   |    ```Can be Active 24hours```    |
+|  OFF  |             ```Busy```            |
+
+## ``THANKS TO`` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+
+| [`Allah`](https://)       | [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)   | [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) |
+| :-----------------------: | :---------------------------------------------------------------: | :------------------------------------------------: |
+| [`Kamu`](https://uwu.com) | [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)      | [`Mantan`](https://tempatsampah.com)               |
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Mario Game" width="600" />
 
 ```php
 Dino Eskrim Enak
