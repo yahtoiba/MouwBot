@@ -55,6 +55,7 @@ Github ini dan support thxツ
 > node index js
 > Tinggal scan kode qr yee tod...
 ```
+<details>
 
 ## ``FEATURES``  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
