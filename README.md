@@ -58,7 +58,7 @@ Github ini dan support thxツ
 
 ## ``FEATURES``  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">
 
-| AnxietyBot [✓](https://bit.ly/ClickDiSinii) |           v 3.2            |            
+|    MouwBot     [✓](https://bit.ly/ClickDiSinii) |           v 3.2            |            
 | :-----------: | :-----------------------------: |
 
 
