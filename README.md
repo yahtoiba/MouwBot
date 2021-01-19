@@ -1,8 +1,5 @@
 ## `I'm MouwBotツ` ![](https://visitor-badge.glitch.me/badge?page_id=yahtoiba.MouwBot)
 
-<p align="center">
-<img src="https://github.com/yahtoiba/MouwBot/blob/main/MouwBot/IMG-20201214-WA8323.jpg" width="530" height="530"/>
-</p>
 
 <p align="center">
 <a href="#"> ✪〘 <img title="MouwBot" src="https://img.shields.io/badge/MouwBotツ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 〙✪
@@ -10,15 +7,10 @@
 
 </details>
 
-## `BBY><` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px" height="50"/>
-* ``My Future``
-```php
-Thx2Month (っ´▽`)っ♡♡♡♡♡♡♡♡♡
-```
+## `Mouw` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px" height="50"/>
 
 ```php
-Calon Masdep Aing
-Do'ain ya mentemen ツ
+ツ
 ```
 ## `NOTE`📝
 * ``READ!!!``
